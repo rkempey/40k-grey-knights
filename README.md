@@ -38,3 +38,13 @@ Each time a GREY KNIGHTS PSYKER is selected to manifest psychic powers, it can a
 | 2 | 2 |
 | 3 | 4 |
 | 4+ | 6 |
+
+# Tides
+
+| Tide | Description |
+| :-------------: | ----------- |
+| Tide of Covergence | While this Tide is dominant for your army: <ul><li>Add 6'' to the range characteristic of psi weapons that models in this unit are equipped with.</li><li>Each time a model in this unit makes a melee attack with a Nemesis weapon, on an unmodified wound roll of 6, the target suffers 1 mortal wound in addition to any normal damage</li></ul> |
+| Tide of Celerity | While this Tide is dominant for your army: <ul><li>Each time an Advance roll is made for this unit, treat a dice roll of 1-2 as 3 instead</li><li>Each time a charge roll is made for this unit, treat each dice roll of 1-2 as 3 instead.</li></ul> |
+| Tide of Shadows | While this Tide is dominant for your army, each time a ranged attack made by an enemy model more than 12'' away from this unit targets this unit, models in this unit are treated as receiving the benefits of Light Cover. If every model in this unit was already receiving the benefits of Light Cover, models in this unit are also treated as receiving the benefits of Dense Cover.
+| Tide of Escalation | While this Tide is dominant for your army, in your Psychic phasem if your army includes any Brotherhoos of Psykers Detachments, each time this unit is selected to manifest psythic powers, it can attempt to manifest it's brotherhoos psyhic power, even if that power has already been attempted to be manifested by another unit that phase. Each time such a unit attempts to manifest such a power, then until the end of the phase, add 1 to that power's warp charge value for each other attempt that has been made to manifest it by a unit from your army that phase, whether the attempt was successful or not.
+| Tide of Banishment | While this Tide is dominant for your army: <ul><li>This unit gains the following ability: 'Banishment (Aura): While an enemy DAEMON unit is within 6'' of this unit, subtract 2 from the Leadership characteristic of models in that enemy unit.'</li><li>Each time a model in this unit makes an attack against a DAEMON unit, re-roll a hit roll of 1 and re-roll a wound roll of 1</li></ul> |
