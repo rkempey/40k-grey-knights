@@ -29,7 +29,7 @@ Each time a GREY KNIGHTS PSYKER is selected to manifest psychic powers, it can a
 # Purifying Ritual
 
 | Power | Type | Warp-charge | Description |
-| ----------- | ----------- | ----------- | ----------- |
+| :-------------: | :-------------: | :-------------: | ----------- |
 | Purifying Ritual | Psychic Action | 5 | In your Psychic phase, this action can be perfomed by any number of units in your army. In your Psychic phase, if a GREY KNIGHTS PSYKER unit from your army is within 3'' of an objective marker, it can attempt to purify it by performing this psyhic action. Each objective marker cannot be purified more than once in the same turn. 
 
 | Number of Purified Objectives | Victory Points Scored |
