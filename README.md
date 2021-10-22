@@ -24,3 +24,17 @@ Each time a GREY KNIGHTS PSYKER is selected to manifest psychic powers, it can a
 | Purifying Flame | Witchfire | 5 | If manifested, the closest enemy unit within 9'' of and visible to this PSYKER suffers 3 mortal wounds. If the result of the Psychic test was 11+, that unit suffers D3+3 mortal wounds instead.
 | Armoured Resilience | Blessing | 6 | If manifested, until the start of your next Psychic phase, add 1 to armour saving throws made for models in this PSYKER's unit
 | Ethereal Castigation | Blessing | 6 | If manifested, this PSYKER's unit can shoot as if were your Shooting phase, and then it can make a Normal Move as if it were your Movement phase. After making this move and/or resolving these shooting attacks, until the end of the turn, this PSYKER's unit cannot make a Normal Move, Advance, charge, or shoot. 
+
+
+# Purifying Ritual
+
+| Power | Type | Warp-charge | Description |
+| ----------- | ----------- | ----------- | ----------- |
+| Purifying Ritual | Psychic Action | 5 | In your Psychic phase, this action can be perfomed by any number of units in your army. In your Psychic phase, if a GREY KNIGHTS PSYKER unit from your army is within 3'' of an objective marker, it can attempt to purify it by performing this psyhic action. Each objective marker cannot be purified more than once in the same turn. 
+
+| Number of Purified Objectives | Victory Points Scored |
+| :-------------: | :-------------: |
+| 1 | 1 |
+| 2 | 2 |
+| 3 | 4 |
+| 4+ | 6 |
