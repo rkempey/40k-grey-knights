@@ -8,7 +8,7 @@
 | Empyric Amplification | Malediction | 7 | If manifested, select one enemy unit within 12"" of and visible to this PSYKER. Until the start of your next Psychic phase, each time an attack made with a Nemesis or psi weapon is allocated to a model in that unit, add 1 to the Damage characteristic of that attack.
 | Santuary | Blessing | 6 | If manifested, select one friendly GREY KNIGHTS unit within 18'' of this PSYKER. Until the start of your next Psychic phase, models in that unit have a 4+ invulnerable save.
 | Vortex of Doom | Witchfire | 7 | If manifested, select the closest enemy unit within 12'' of and visible to this PSYKER: each other enemy unit within 3'' of the selected unit suffers 1 mortal wound, and then the selected unit suffers 2D3 moral wounds. If the model manifesting this power has the Psychic Epitome Warlord Trait, only the unit you selected suffers the additional mortal wound from that trait, not those other enemy units within 3'' of it.
-| Warp Shaping | Blessing | 4 | If manifested, select one Time of the Warp that has not been dominant for your army during this battle. Your army's currently dominant Tide of the Warp is changed to the selected Tide of the Warp
+| Warp Shaping | Blessing | 4 | If manifested, select one Tide of the Warp that has not been dominant for your army during this battle. Your army's currently dominant Tide of the Warp is changed to the selected Tide of the Warp
 | Ghostly Bonds | Malediction | 5 | If manifested, select one enemy unit within 18'' of and visible to this PSYKER. Until the start of your next Psychic phase, halve that unit's Move characteristic. 
 
 
