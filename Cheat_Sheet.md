@@ -1,0 +1,26 @@
+## THE AEGIS
+
+<ul>
+    <li>Each time a model in this unit would lose a wound as a result of a mortal wound, roll one D6: on a 5+, that wound is not lost.</li>
+    <li>If this unit is a PSYKER, add 1 to Deny the Witch tests taken for this unit</li>
+</ul>
+
+## STRATAGEMS
+
+| Stratagem | Phase | Cost (CP) | Description |
+| :-------------: | :-------------: | :-------------: | ----------- |
+| Fight on the Move | Movement | 1 | Use this Stratagem in your Movement phase, when a GREY KNIGHTS TELEPORTER unit from your army Falls Back. Until the end of the turn, that unit is still eligible to shoot and charge, even though it Fell Back. |
+| Haloed in Soulfire | Movement | 1 | Use this Stratagem in your Movement phase, when a GREY KNIGHTS CORE unit from your army is set up on the battlefield using the Teleport Strike ability. Until the start of your next turn, each time an attack is made against that unit, subtract 1 from that attack's hit roll. |
+| Teleportation Shunt | Movement | 2 | Use this Stratagem in your Movement phase, When a GREY KNIGHTS TELEPORTER unit from your army is selected to make a Normal Move. Instead of making a Normal Move with that unit, remove it from the battlefield and then set it back up on the battlefield that is more than 9'' away from any enemy models. A unit can only be selected for this Stratagem once per battle. |
+| Powerful Adept | Psychic | 1 | Use this stratagem in your Psychic phase, when a GREY KNIGHTS PSYKER unit from your army is selected to manifest psychic powers. Until the end of the phase, each time a psychic power is manifested by that unit, increase the range of that psychic power by 6''. |
+| Psychic Channelling | Psychic | 1 | Use this Stratagem in your Psychic phase, when a GREY KNIGHTS PSYKER unit from your army is selected to manifest psyhic powers. Until the end of the phase, eacht ime a Psychic test is taken for that unit, roll one additional D6 and discard one of the dice. |
+| Mental Focus | Psychic | 1 | Use this Stratagem in your Psychic phase. Until the end of the phase, that unit can attempt to manifest one more psychic power than normal. |
+| Psychic Onslaught | Shooting | 1 | Use this Stratagem in your Shooting phase, when a GREY KNIGHTS PSYKER unit from your army is selected to shoot. Until the end of the phase, each time a model in that unit makes a ranged attack with a psi weapon, add 1 to the Strength characteristic of that attack and improve the Armour Penetration characteristic of that attack by 1. |
+| Death from the Warp | Shooting | 1 | Use this stratagem in your Shooting phase, when a GERY KNIGHTS PSYKER unit from your army shoots. Until the end of the phase, each time a model in that unit makes a ranged attack, if that unit was set up on the battlefield using the Teleport Strike ability this turn, add 1 to that attack's hit roll. |
+| Psybolt Ammunition | Shooting | 1/2 | Use this Stratagem in your shooting phase, when a GREY KNIGHTS unit from your army is selected to shoot. Until the end of the phase, each time a model in that unit makes a ranged attack with a bolt weapon:<ul><li>An unmodified hit roll of 6 automatically wounds the target</li><li>Improve the Armour Penetration characteristic of that attack by 1</li></ul> If this unit has 6 or more models, this Stratagem costs 2CP; otherwise, it costs 1CP. |
+| Thunderous Stride | Charge | 1 | Use this Stratagem in your Charge phase, when a DREADKNIGHT model from your army finishes a charge move. Selected one eneemy unit within Engagement Range of that model, and roll one D6: one a 2-5, that enemy unit suffers D3 mortal wounds; on a 6, that enemy unit suffers 3 mortal wounds. |
+| Final Justice | Fight | 2 | Use this strategem in the Fight phase, when a GREY KNIGHTS CHARACTER model (excluding CASTELLAN CROWE) from your army that has not already been selected to fight this phase is destroyed. Do not remove that model from play - it can fight after the attacking model's unit has finished making attacks. After resolving the destoryed model's attacks, it is then removed. |
+| Hexagrammic Wards | Opponent's Psyhic | 1 | Use this Stratagem in your opponent's Psyhic phase, before a Deny the Witch test is taken for a GREY KNIGHTS PSYKER unit from your army. When taking that test, roll one additional D6 and discard the lowest result |
+| Truesilver Armour | Any | 2/3 | Use this Stratagem in any phase, when a GREY KNIGHTS CORE INFANTRY unit from your army is selected as the target of an attack. Until the end of the phase, each time an attack is made against that unit, an unmodified wound roll of 1-3 for that attack fails, irrespective of any avilities that the weapon or the model making the attack may have. If that unit contains 5 or fewer models, this Stratagem costs 2CP; otherwise it costs 3CP. |
+| Zone of Warding | Any | 1/2 | Use this Stratagem in any phsae, when a GREY KNIGHTS unit from your army is selected as the target of a ranged attack. Until the end of the phase, while that unit contains a model equipped with a Nemesis warding stave, models in that unit have a 5+ invulnerable save (TERMINATOR models instead have a 4+ invulnerable save). If that unit contains 5 or fewer models, this Stratagem costs 1CP; otherwise it costs 2CP. |
+
