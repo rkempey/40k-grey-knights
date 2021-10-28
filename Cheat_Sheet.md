@@ -45,13 +45,13 @@ Vortex of Doom | 7 | 12'' | Witchfire: If manifested, select the closest enemy u
 
 ## Command Phase
 
-- With the BROTHERHOOD TECHMARINE use the Awaken the Machine Spirits ability
+- With the BROTHERHOOD TECHMARINE use the `Awaken the Machine Spirits` ability
   -  In your Command phase, this model can awaken one friendly GERY KNIGHT VEHICLE model within 3" of it. Until the start of your next Command phase, eact time that VEHICLE model makes a ranged attack, add 1 to that attack's hit roll. Each model can only be awakened once per turn.
 - With the Brotherhood Librarian use the `Unyielding Anvil` ability
   - While a friendly Grey Knight Core or Grey Knights Character unit it within 6" of this Warlord, that unit has the objective secured ability. If a model in such a unit already has this ability, that model counts as one additional model when determining control of an objective marker.
 
 ## Movement Phase
-- With the BROTHERHOOD TECHMARINE use the Blessing of the Omnissiah ability
+- With the BROTHERHOOD TECHMARINE use the `Blessing of the Omnissiah` ability
   - At the end of your Movement phase, this model can repair one friendly GREY KNIGHTS VEHICLE model within 3" of it. That VEHICLE model regains up to D3 lost wounds. Each model can only be repaired once per turn.
 
 ## Psyhic Phase
@@ -69,7 +69,7 @@ Vortex of Doom | 7 | 12'' | Witchfire: If manifested, select the closest enemy u
 ## Charge Phase
 
 ## Fight Phase
-- Is there a Daemon unit within 6" of the Librarian?
+- Is there a Daemon unit within 6" of the Brotherhood Librarian?
   - If so then use the `True Name Shard` ability
     - Once per battle, at the start of the Fight phase, you can select one enemy Daemon unit within 6" of the bearer. That unit is not eligible to fight this phase until after all the eligible units from your army have done so.
 
