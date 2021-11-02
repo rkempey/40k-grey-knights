@@ -45,6 +45,15 @@ Vortex of Doom | 7 | 12'' | Witchfire: If manifested, select the closest enemy u
 ## Pre-game 
 - Declare which tide we will use. Most likely `Tide of Shadows` to start
 
+## How am I going to score my secondaries this turn??
+| Secondary |  Description |
+| :-------------: | :-------------: | 
+| GRIND THEM DOWN | Score 3 victory points at the end of the battle round if more enemy units that friendly units were destroyed this battle round. |
+| PURIFYING RITUAL | Score victory points depending on how many objectives are purified |
+| ENGAGE ON ALL FRONTS | Score 2 victory points atr the end of your turn if you have one or more units from your army wholly within three different table quarters, and those units are all more than 6" from the centre of the battlefiled. Score 3 victory points instead if you have one or more units from your army wholly within each table quarter, and those units are all more than 6" from the centre of the battlefield.
+| ASSASSINATION | Score 3 victory points at the end of the battle for each enemy CHARACTER model that is destroyed, If the enemy WARLORD was destroyed during the battle, gain 1 additional victory point. |
+| STRANGLEHOLD | Score 3 victory points at the end of your turn if you control 3 or more objective markers and you also control more objective markers than your opponent.
+
 ## Command Phase
 
 - With the BROTHERHOOD TECHMARINE use the `Awaken the Machine Spirits` ability
@@ -72,6 +81,9 @@ Vortex of Doom | 7 | 12'' | Witchfire: If manifested, select the closest enemy u
   - If so, use the Rites of Battle (Aura): re-roll hit rolls of 1
 
 ## Charge Phase
+- Any enemy units with 12"?
+  - If so, do you want to charge?
+- If a `DREADKNIGHT` finishes a charge move, use `Thunderous Stride` stratagem
 
 ## Fight Phase
 - Any CORE units within 6" of KALDOR DRAIGO?
@@ -79,15 +91,12 @@ Vortex of Doom | 7 | 12'' | Witchfire: If manifested, select the closest enemy u
 - Any `<BROTHERHOOD> CORE` units within 6" of GRAND MASTER IN NEMESIS DREADKNIGHT
   - If so, use the Rites of Battle (Aura): re-roll hit rolls of 1
 
-## Opponnents Psyhic Phase
+## Opponents Psyhic Phase
 - Use `The Aegis` ability on any GREY KNIGHTS PSYKER unit
   - 5++ against mortal wounds
   - add 1 to Deny the Witch tests 
-- With the Brotherhood Librarian use the `Psychic Hood` ability
-  - Each time a Deny the Witch test is taken for this model, if the unit attempting to manifest the psychic power within 12" of this model, add 1 to that Deny the Witch Test.
-  - So with `The Aegis` it would be +2 to Deny the Witch tests with the Librarian (assuming they unit is within 12")
 
-## Opponnents Charge Phase
+## Opponents Charge Phase
 - Are there any CHARACTER units that are within 3" horizontal and 5" vertical of an enemy unit?
   - If so, perform Heroic Intervention 
 
@@ -113,6 +122,6 @@ Vortex of Doom | 7 | 12'' | Witchfire: If manifested, select the closest enemy u
 | :-------------: | ----------- |
 | Tide of Covergence | While this Tide is dominant for your army: <ul><li>Add 6'' to the range characteristic of psi weapons that models in this unit are equipped with.</li><li>Each time a model in this unit makes a melee attack with a Nemesis weapon, on an unmodified wound roll of 6, the target suffers 1 mortal wound in addition to any normal damage</li></ul> |
 | Tide of Celerity | While this Tide is dominant for your army: <ul><li>Each time an Advance roll is made for this unit, treat a dice roll of 1-2 as 3 instead</li><li>Each time a charge roll is made for this unit, treat each dice roll of 1-2 as 3 instead.</li></ul> |
-| Tide of Shadows | While this Tide is dominant for your army, each time a ranged attack made by an enemy model more than 12'' away from this unit targets this unit, models in this unit are treated as receiving the benefits of Light Cover. If every model in this unit was already receiving the benefits of Light Cover, models in this unit are also treated as receiving the benefits of Dense Cover.
+| Tide of Shadows | While this Tide is dominant for your army, each time a ranged attack made by an enemy model more than 12" away from this unit targets this unit, models in this unit are treated as receiving the benefits of Light Cover (+1 to saving throws against ranged weapons). If every model in this unit was already receiving the benefits of Light Cover, models in this unit are also treated as receiving the benefits of Dense Cover (Subtract 1 from hit rolls made for ranged weapons if at least 3" tall)
 | Tide of Escalation | While this Tide is dominant for your army, in your Psychic phasem if your army includes any Brotherhood of Psykers Detachments, each time this unit is selected to manifest psythic powers, it can attempt to manifest it's brotherhood psychic power, even if that power has already been attempted to be manifested by another unit that phase. Each time such a unit attempts to manifest such a power, then until the end of the phase, add 1 to that power's warp charge value for each other attempt that has been made to manifest it by a unit from your army that phase, whether the attempt was successful or not.
 | Tide of Banishment | While this Tide is dominant for your army: <ul><li>This unit gains the following ability: 'Banishment (Aura): While an enemy DAEMON unit is within 6'' of this unit, subtract 2 from the Leadership characteristic of models in that enemy unit.'</li><li>Each time a model in this unit makes an attack against a DAEMON unit, re-roll a hit roll of 1 and re-roll a wound roll of 1</li></ul> |
