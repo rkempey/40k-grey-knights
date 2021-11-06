@@ -40,9 +40,21 @@ Vortex of Doom | 7 | 12'' | Witchfire: If manifested, select the closest enemy u
 | Sanctuary | 6 | 18'' | Blessing: If manifested, select one friendly Grey Knights unit within 18" of this Psyker. Until the start of your next Psychic phase, models in that unit have a 4+ invulnerable save |
 | Ethereal Castigation | 6 | Self | Blessing: If manifested, this Psyker's unit can shoot as if it were your Shooting phase, and then it can make a Normal Move as if it were your Movement phase. After making this move and/or resolving these shooting attacks, until the end of the turn, this Psyker's unit cannot make a Normal Move, Advance, charge, or shoot. |
 
+## Need to kill something?
+- 1 CP on Psychic Channelling. Roll one additional D6 for Psychic tests
+- Cast Empyric Lodestone  (SWORDBEARERS Vehicle unit makes a ranged attack against that enemy unit, add 1 to that attack's wound roll)
+- Cast Empyric Amplification (Psychic power, +1 Damage to Psi weapons)
+- 1 CP on Psychic Onslaught (Shooting phase +1 Strength, improve AP by 1)
+
+# Colors
+- Purple = Swordbearers
+- Red = Prescient Brethren
+
 # Turn by Turn Abilities
 
 ## Pre-game 
+- Combat squad?
+- Put units into deep strike? (Teleport strike)
 - Declare which tide we will use. Most likely `Tide of Shadows` to start
 
 ## How am I going to score my secondaries this turn??
